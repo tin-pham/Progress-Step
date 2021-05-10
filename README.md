@@ -1,6 +1,6 @@
 ### Screenshot
 
-![](./sreenshot.jpeg)
+![](./screenshot.jpeg)
 
 ### Live Site
 
